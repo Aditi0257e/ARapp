@@ -37,7 +37,7 @@
 ## 🛠️ Installation Instructions
 
 ```bash
-# Clone the repo
+
 
 
 # Install dependencies
